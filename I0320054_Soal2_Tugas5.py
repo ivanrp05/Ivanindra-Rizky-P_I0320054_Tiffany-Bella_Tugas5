@@ -39,6 +39,10 @@ elif 85 <= y <= 100 :
 else :
     pass
 
+print("Selesai")
+input("Klik enter untuk selesai")
+
+
 
 
 
